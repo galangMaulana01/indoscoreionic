@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IndoScore</string>
+    <string name="title_activity_main">IndoScore</string>
+    <string name="package_name">com.galang.indoscore</string>
+    <string name="custom_url_scheme">com.galang.indoscore</string>
+</resources>
