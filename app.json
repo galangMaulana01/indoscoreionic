@@ -1,5 +1,13 @@
 {
   "expo": {
+    "name": "IndoScore",
+    "slug": "indoscore-ionic",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.galang.indoscore",
+      "buildType": "apk"
+    },
     "extra": {
       "eas": {
         "projectId": "38cbf100-3c23-4624-ae30-6f24a9535b2a"
